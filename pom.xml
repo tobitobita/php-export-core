@@ -13,7 +13,7 @@
 		</dependency>
 		<dependency>
 			<groupId>dsk</groupId>
-			<artifactId>astah-export</artifactId>
+			<artifactId>astah-export-core</artifactId>
 			<version>1.0.7-SNAPSHOT</version>
 		</dependency>
 		<dependency>
